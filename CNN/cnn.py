@@ -21,7 +21,7 @@ def predict_image(image_path):
     return result
 
 # Ścieżka do pliku obrazu
-image_path = 'fryzura.jpg'
+image_path = 'lion.jpg'
 
 # Wywołanie funkcji i wyświetlenie wyników
 results = predict_image(image_path)
